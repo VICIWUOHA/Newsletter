@@ -78,8 +78,8 @@ app.listen(process.env.PORT || 3000, function() {
 });
 
 //API key
-// 9c830812c136824f5fd5958f5c1929bc-us3
+// Used for header Auth
 
 //List_id
-//1541f4aa6a
+//used in URL
 
