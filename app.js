@@ -45,7 +45,7 @@ app.post("/",function(req, res){
         url: "https://us3.api.mailchimp.com/3.0/lists/1541f4aa6a",
         method:'POST',
         headers:{
-            "Authorization": "victor1 9c830812c136824f5fd5958f5c1929bc-us3"
+            "Authorization": "victor1 MAILCHIMP_APP_API_KEY"
         },
         body:jsonData
     };
